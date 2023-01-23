@@ -24,7 +24,7 @@
 
 # 📖 [AwesomeBook] <a name="about-project"></a>
 
-**[Milestone]** is a project developed using HTML, CSS, Javascript and some Bootstrap It has all the details about my experoience, the projects I developed, Skills, programming languages that i know, the frameworks, and the contact form to get in touch with me.
+**[Awesome Book]** is a project developed using HTML, CSS and Javascript, this project is made by one single page, it is made by some navigations.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,8 +52,8 @@
 
 > This project has the following feature.
 
-- **[Home_page]**
-- **[About_Page]**
+- **[Navigation_Menu]**
+- **[Body_Page]**
 
 <!-- LIVE DEMO -->
 
@@ -86,7 +86,7 @@ Install any code editor in your computer
 
 clone the repo using this command:
 
-git clone [https://github.com/Bigizi/Milestone]
+git clone [https://github.com/Bigizi/StructuredAwesomeBook]
 
 ### Usage
 
@@ -109,11 +109,11 @@ Navigating to your repo use this command: cd [directory-name]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
-
+<!-- 
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[new_feature_1]** More CSS animation.
+- [ ] **[new_feature_1]** More CSS animation. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +127,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
->This project will help you to know step by step to build a portfolio using HTML, CSS and JAVASCRIPT
+>This project will help you to know step by step to build a single page application using HTML, CSS and JAVASCRIPT
 
 If you like this project...
 
@@ -136,7 +136,5 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-> Design credit:
-> Original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07)
-> I would like to thank all my coding partners, morning session team and stand up call team for the support.
+> I appreciate all my coding partners for the contribution to make this project completed.
 <p align="right">(<a href="#acknowledgements">back to top</a>)</p>
