@@ -107,15 +107,6 @@ Navigating to your repo use this command: cd [directory-name]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-<!-- 
-## 🔭 Future Features <a name="future-features"></a>
-
-
-- [ ] **[new_feature_1]** More CSS animation. -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
