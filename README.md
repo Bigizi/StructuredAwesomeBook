@@ -44,7 +44,6 @@
     <li><a href="https://reactjs.org/">JAVASCRIPT</a></li>
   </ul>
 </details>
-<details>
 
 <!-- Features -->
 
